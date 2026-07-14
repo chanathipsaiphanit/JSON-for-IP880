@@ -1,0 +1,25 @@
+{
+    id: '1',
+    name: 'iPhone 16 Pro Max',
+    brand: 'Apple',
+    price: '$1,199',
+    description: 'Powerful A18 Pro chip, innovative camera control, and a premium titanium design.',
+    imageUrl: 'https://images.unsplash.com/photo-1695048133142-1a20484d2569?w=400&auto=format&fit=crop&q=80',
+  },
+  {
+    id: '2',
+    name: 'Samsung Galaxy S24 Ultra',
+    brand: 'Samsung',
+    price: '$1,299',
+    description: 'Empowered by advanced Galaxy AI, 50MP telephoto lens, and a built-in S Pen.',
+    imageUrl: 'https://images.unsplash.com/photo-1610945265064-0e34e5519bbf?w=400&auto=format&fit=crop&q=80',
+  },
+  {
+    id: '3',
+    name: 'Xiaomi 14 Ultra',
+    brand: 'Xiaomi',
+    price: '$1,099',
+    description: 'Ultimate mobile photography experience with a 1-inch sensor co-engineered with Leica.',
+    imageUrl: 'https://images.unsplash.com/photo-1511707171634-5f897ff02aa9?w=400&auto=format&fit=crop&q=80',
+  },
+];
